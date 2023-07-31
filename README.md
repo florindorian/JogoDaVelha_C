@@ -1,5 +1,5 @@
 <h1 align="center">
-	Jogo da Velha em <span style="color: blue;">C</span>
+	Jogo da Velha em C
 </h1>
 
 <p align="center">
@@ -33,6 +33,7 @@ Salve o arquivo. Em seguida, certifique-se de que você está no diretório raí
 > make all
 
 Então, o executável do programa será gerado. Para rodá-lo, use no terminal o comando:
+
 No windows:
 
 > jogo.exe
@@ -46,4 +47,4 @@ Observe que outro produto da compilação foi a pasta objects (com os códigos o
 > make clean
 
 ## 📄Licença
-Este projeto está sob a licença do MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+Este projeto está sob a licença do MIT. Consulte o arquivo [LICENSE](https://github.com/florindorian/JogoDaVelha_C/blob/main/LICENSE) para obter mais detalhes.
