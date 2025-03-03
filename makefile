@@ -5,7 +5,7 @@
 PROJ_NAME = jogo
 
 # Sistema operacional: escolher "windows" ou "linux" ("sem aspas")
-SO = windows
+SO = linux
 
 # Compilador
 CC = gcc
